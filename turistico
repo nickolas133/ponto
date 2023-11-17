@@ -1,0 +1,32 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ponto Turístico em Minha Cidade</title>
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo(a) ao Ponto Turístico em Minha Cidade!</h1>
+  </header>
+
+  <main>
+    <h2>Conheça o Ponto Turístico</h2>
+
+    <img src="caminho_para_a_imagem.jpg" alt="Ponto Turístico">
+
+    <p>
+      Descrição do ponto turístico em minha cidade.
+    </p>
+
+    <img src="caminho_para_outra_imagem.jpg" alt="Outra Imagem do Ponto Turístico">
+
+    <p>
+      Mais informações sobre o ponto turístico em minha cidade.
+    </p>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Ponto Turístico em Minha Cidade. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
